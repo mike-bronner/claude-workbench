@@ -6,5 +6,26 @@
     "name": "Mike Bronner",
     "url": "https://github.com/mike-bronner"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "core",
+      "description": "Core infrastructure: persistent agent identity, session lifecycle hooks, operational memory, and meta skills. Customizable agent name and memory path.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mike-bronner/core.git"
+      },
+      "homepage": "https://github.com/mike-bronner/core"
+    },
+    {
+      "name": "dev-pipeline",
+      "description": "Calvinball-driven dev pipeline: Miss Wormwood (triage), Moe (dev work), and Tracer Bullet (code review) as subagents. Interactive or unattended dispatch.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mike-bronner/dev-pipeline.git"
+      },
+      "homepage": "https://github.com/mike-bronner/dev-pipeline"
+    }
+  ]
 }
