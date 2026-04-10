@@ -27,6 +27,16 @@
         "url": "https://github.com/mike-bronner/dev-pipeline.git"
       },
       "homepage": "https://github.com/mike-bronner/dev-pipeline"
+    },
+    {
+      "name": "bullet-journal",
+      "description": "BuJo ritual system: daily, weekly, monthly, and yearly interactive reflections in Apple Notes. Scheduled rituals with on-demand slash commands.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mike-bronner/bullet-journal.git"
+      },
+      "homepage": "https://github.com/mike-bronner/bullet-journal"
     }
   ]
 }
