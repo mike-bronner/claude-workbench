@@ -22,7 +22,7 @@ claude plugin marketplace add mike-bronner/claude-workbench
 claude plugin install <plugin-name>@claude-workbench
 ```
 
-> **Note:** Cowork (claude.ai) marketplace sync does not yet support third-party marketplaces with external plugin sources ([claude-code#41653](https://github.com/anthropics/claude-code/issues/41653)). Use the CLI commands above instead.
+> **Cowork (claude.ai):** Third-party marketplaces with external plugin sources are not yet supported in Cowork ([claude-code#41653](https://github.com/anthropics/claude-code/issues/41653)). The commands above only work in Claude Code (CLI/desktop). There is currently no workaround for Cowork.
 
 ## Plugins
 
