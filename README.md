@@ -8,14 +8,29 @@ A catalog of Claude Code plugins I use across my workflows — persistent agent 
 
 ## Installation
 
+From within a Claude Code session:
+
 ```
 /plugin marketplace add mike-bronner/claude-workbench
 /plugin install <plugin-name>@claude-workbench
 ```
 
+Or from the terminal:
+
+```bash
+claude plugin marketplace add mike-bronner/claude-workbench
+claude plugin install <plugin-name>@claude-workbench
+```
+
+> **Note:** Cowork (claude.ai) marketplace sync does not yet support third-party marketplaces with external plugin sources ([claude-code#41653](https://github.com/anthropics/claude-code/issues/41653)). Use the CLI commands above instead.
+
 ## Plugins
 
-_(Plugins will be listed here as they are added to the marketplace.)_
+| Plugin | Description |
+|--------|-------------|
+| `core` | Persistent agent identity, session lifecycle hooks, operational memory, and meta skills |
+| `dev-pipeline` | Calvinball-driven dev pipeline: Miss Wormwood (triage), Moe (dev work), and Tracer Bullet (code review) |
+| `bullet-journal` | BuJo ritual system: daily, weekly, monthly, and yearly interactive reflections in Apple Notes |
 
 ## Plan of record
 
