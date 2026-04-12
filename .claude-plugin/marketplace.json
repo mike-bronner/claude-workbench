@@ -1,11 +1,10 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-workbench",
+  "description": "Mike Bronner's personal Claude Code plugin marketplace. Infrastructure for persistent agent identity, memory, and workflow automation.",
   "owner": {
     "name": "Mike Bronner",
     "url": "https://github.com/mike-bronner"
-  },
-  "metadata": {
-    "description": "Mike Bronner's personal Claude Code plugin marketplace. Infrastructure for persistent agent identity, memory, and workflow automation."
   },
   "plugins": [
     {
