@@ -33,8 +33,8 @@
       "description": "BuJo ritual system: daily, weekly, monthly, and yearly interactive reflections in Apple Notes. Scheduled rituals with on-demand slash commands.",
       "category": "productivity",
       "source": {
-        "source": "url",
-        "url": "https://github.com/mike-bronner/bullet-journal.git"
+        "source": "github",
+        "repo": "mike-bronner/bullet-journal"
       },
       "homepage": "https://github.com/mike-bronner/bullet-journal"
     }
