@@ -3,39 +3,14 @@
   "owner": {
     "name": "Mike Bronner"
   },
-  "metadata": {
-    "description": "Mike Bronner's personal Claude Code plugin marketplace. Infrastructure for persistent agent identity, memory, and workflow automation."
-  },
   "plugins": [
     {
-      "name": "core",
-      "description": "Core infrastructure: persistent agent identity, session lifecycle hooks, operational memory, and meta skills. Customizable agent name and memory path.",
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/mike-bronner/core.git"
-      },
-      "homepage": "https://github.com/mike-bronner/core"
-    },
-    {
       "name": "dev-pipeline",
-      "description": "Calvinball-driven dev pipeline: Miss Wormwood (triage), Moe (dev work), and Tracer Bullet (code review) as subagents. Interactive or unattended dispatch.",
-      "category": "development",
+      "description": "Calvinball-driven dev pipeline with subagents for triage, dev work, and code review.",
       "source": {
         "source": "url",
         "url": "https://github.com/mike-bronner/dev-pipeline.git"
-      },
-      "homepage": "https://github.com/mike-bronner/dev-pipeline"
-    },
-    {
-      "name": "bullet-journal",
-      "description": "BuJo ritual system: daily, weekly, monthly, and yearly interactive reflections in Apple Notes. Scheduled rituals with on-demand slash commands.",
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/mike-bronner/bullet-journal.git"
-      },
-      "homepage": "https://github.com/mike-bronner/bullet-journal"
+      }
     }
   ]
 }
