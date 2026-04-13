@@ -8,14 +8,14 @@
   },
   "plugins": [
     {
-      "name": "core",
+      "name": "workbench-core",
       "description": "Core infrastructure: persistent agent identity, session lifecycle hooks, operational memory, and meta skills. Customizable agent name and memory path.",
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mike-bronner/core.git"
+        "url": "https://github.com/mike-bronner/workbench-core.git"
       },
-      "homepage": "https://github.com/mike-bronner/core"
+      "homepage": "https://github.com/mike-bronner/workbench-core"
     },
     {
       "name": "dev-pipeline",
@@ -23,9 +23,9 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/mike-bronner/dev-pipeline.git"
+        "url": "https://github.com/mike-bronner/workbench-dev-team.git"
       },
-      "homepage": "https://github.com/mike-bronner/dev-pipeline"
+      "homepage": "https://github.com/mike-bronner/workbench-dev-team"
     },
     {
       "name": "bullet-journal",
@@ -33,9 +33,9 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mike-bronner/bullet-journal.git"
+        "url": "https://github.com/mike-bronner/workbench-bujo.git"
       },
-      "homepage": "https://github.com/mike-bronner/bullet-journal"
+      "homepage": "https://github.com/mike-bronner/workbench-bujo"
     }
   ]
 }
