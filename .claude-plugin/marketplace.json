@@ -18,7 +18,7 @@
       "homepage": "https://github.com/mike-bronner/workbench-core"
     },
     {
-      "name": "dev-pipeline",
+      "name": "workbench-dev-team",
       "description": "Calvinball-driven dev pipeline: Miss Wormwood (triage), Moe (dev work), and Tracer Bullet (code review) as subagents. Interactive or unattended dispatch.",
       "category": "development",
       "source": {
@@ -28,7 +28,7 @@
       "homepage": "https://github.com/mike-bronner/workbench-dev-team"
     },
     {
-      "name": "bullet-journal",
+      "name": "workbench-bujo",
       "description": "BuJo ritual system: daily, weekly, monthly, and yearly interactive reflections in Apple Notes. Scheduled rituals with on-demand slash commands.",
       "category": "productivity",
       "source": {
