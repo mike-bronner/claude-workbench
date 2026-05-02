@@ -34,7 +34,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mike-bronner/workbench-bujo.git",
-        "sha": "9f2590abe54129fd2f63101938368f202c1f9896"
+        "sha": "3cb7df965c740bb11078a3c51ceda1bc8989b770"
       },
       "homepage": "https://github.com/mike-bronner/workbench-bujo"
     }
