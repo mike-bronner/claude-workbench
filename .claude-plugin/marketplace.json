@@ -13,7 +13,8 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/mike-bronner/workbench-core.git"
+        "url": "https://github.com/mike-bronner/workbench-core.git",
+        "sha": "4c617b18c69831d8a8a03d4f755daf629a20e3af"
       },
       "homepage": "https://github.com/mike-bronner/workbench-core"
     },
@@ -23,7 +24,8 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/mike-bronner/workbench-dev-team.git"
+        "url": "https://github.com/mike-bronner/workbench-dev-team.git",
+        "sha": "58319315e4d99bdf9dcaa56f754e3654c4b99205"
       },
       "homepage": "https://github.com/mike-bronner/workbench-dev-team"
     },
