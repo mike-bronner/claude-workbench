@@ -20,7 +20,7 @@
     },
     {
       "name": "workbench-dev-team",
-      "description": "Calvinball-driven dev pipeline: Miss Wormwood (triage), Moe (dev work), and Tracer Bullet (code review) as subagents. Interactive or unattended dispatch.",
+      "description": "The Index-driven dev pipeline: Inspector Lestrade (triage), Dr. Watson (dev work), and Sherlock Holmes (code review) as subagents. Interactive or unattended dispatch.",
       "category": "development",
       "source": {
         "source": "url",
