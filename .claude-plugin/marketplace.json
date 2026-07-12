@@ -39,6 +39,17 @@
         "sha": "aa918470903477735de1f7c9e59e1adf40426395"
       },
       "homepage": "https://github.com/mike-bronner/workbench-bujo"
+    },
+    {
+      "name": "workbench-ynab",
+      "description": "Active write-back, human-approved, tax-aware YNAB budget review and categorisation assistant.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mike-bronner/workbench-ynab.git",
+        "sha": "250160e78973ddcf31e0d9e03388e9a839e1b4cd"
+      },
+      "homepage": "https://github.com/mike-bronner/workbench-ynab"
     }
   ]
 }
