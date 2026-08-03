@@ -47,7 +47,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mike-bronner/workbench-ynab.git",
-        "sha": "250160e78973ddcf31e0d9e03388e9a839e1b4cd"
+        "sha": "d19d506d98ea5c229ddb91f65df18288af4b2052"
       },
       "homepage": "https://github.com/mike-bronner/workbench-ynab"
     }
