@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mike-bronner/workbench-core.git",
-        "sha": "3976786d506695b21f05c933d1112e0a50416a11"
+        "sha": "3d5535b5a437c0bbf3ea43f22b3a45e475846f4c"
       },
       "homepage": "https://github.com/mike-bronner/workbench-core"
     },
