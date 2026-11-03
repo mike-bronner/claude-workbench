@@ -58,7 +58,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mike-bronner/workbench-freshbooks-timetracking.git",
-        "sha": "2d26654e545bf9e1be72bde16e7072c4279aa5c2"
+        "sha": "1e89ff500a9a45707e67e4fda2c3b10f4bcb063a"
       },
       "homepage": "https://github.com/mike-bronner/workbench-freshbooks-timetracking"
     }
