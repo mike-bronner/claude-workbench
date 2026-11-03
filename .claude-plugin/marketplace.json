@@ -50,6 +50,17 @@
         "sha": "d19d506d98ea5c229ddb91f65df18288af4b2052"
       },
       "homepage": "https://github.com/mike-bronner/workbench-ynab"
+    },
+    {
+      "name": "workbench-freshbooks-timetracking",
+      "description": "Turns AI development work in GitHub repos into reviewed, reproducible FreshBooks time entries.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mike-bronner/workbench-freshbooks-timetracking.git",
+        "sha": "2d26654e545bf9e1be72bde16e7072c4279aa5c2"
+      },
+      "homepage": "https://github.com/mike-bronner/workbench-freshbooks-timetracking"
     }
   ]
 }
